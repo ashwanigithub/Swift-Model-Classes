@@ -1,6 +1,6 @@
 //
 //  MainModel.swift
-//  Chirie
+//  Ashwani
 //
 //  Created by Ashwani Sharma on 23/01/18.
 //  Copyright © 2018 Chirie. All rights reserved.
